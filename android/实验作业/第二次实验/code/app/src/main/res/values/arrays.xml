@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="professionals">
-        <item>计算机科学与技术</item>
-        <item>信息安全</item>
-        <item>数据科学与大数据技术</item>
-        <item>人工智能</item>
-    </string-array>
-</resources>
